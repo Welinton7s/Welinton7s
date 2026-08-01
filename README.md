@@ -47,8 +47,8 @@ const welinton = {
 ### `> estatísticas`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=134E4A" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default&hide_border=true&stroke=0F766E&ring=0F766E&fire=0F766E&currStreakLabel=134E4A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Welinton7s&show_icons=true&theme=graywhite&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=134E4A" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welinton7s&theme=default&hide_border=true&stroke=0F766E&ring=0F766E&fire=0F766E&currStreakLabel=134E4A" width="48%" />
 </p>
 
 ### `> contato`
