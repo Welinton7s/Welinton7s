@@ -55,7 +55,7 @@ const welinton = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/welinton-araújo-w7/"><img src="https://img.shields.io/badge/-LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://welinton7s.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfólio-134E4A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="[https://welinton7s.github.io/portfolio/](https://welinton7s.github.io/portfolio-react/)"><img src="https://img.shields.io/badge/-Portfólio-134E4A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 <div align="center">
