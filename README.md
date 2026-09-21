@@ -15,16 +15,15 @@
 
 ### `> sobre_mim`
 
-```
 const welinton = {
-    formacao: "Análise e Desenvolvimento de Sistemas",
-    atuacao_atual: "Técnico de TI (redes, hardware, sistemas fiscais)",
-    em_transicao_para: "Desenvolvedor Java Júnior",
-    curso: "+PraTi Full Stack",
-    stack: ["Java", "Spring Boot", "React", "MySQL", "JPA/Hibernate"],
-    localizacao: "Brasil 🇧🇷"
+formacao: "Análise e Desenvolvimento de Sistemas",
+atuacao_atual: "Técnico de TI (redes, hardware, sistemas fiscais)",
+em_transicao_para: "Desenvolvedor Java Júnior",
+curso: "+PraTi Full Stack",
+stack: ["Java", "Spring Boot", "React", "MySQL", "JPA/Hibernate"],
+localizacao: "Brasil 🇧🇷"
 };
-```
+
 
 ### `> stack`
 
